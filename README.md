@@ -1,1 +1,3 @@
-# CRUD_API
+# CRUD API
+
+Rest API made with Node.js 
